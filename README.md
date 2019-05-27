@@ -1,4 +1,6 @@
-# Coding is Pop(lar)
+# Oltre il Coding
+
+@Oltreconomia Festival 2019
 
 ## Obiettivo di oggi!
 
@@ -6,14 +8,11 @@ Imparare le basi dell'HTML e del CSS costruendo il proprio sito e pubblicandolo 
 
 Questo è un esempio di quello che potrete realizzare: [guarda qui](https://ladygaga-resume.netlify.com/) 😉
 
-
 ---
-
 
 ## Com'è fatta una pagina web?
 
 📹  [Qui c'è un breve video introduttivo](https://www.youtube.com/watch?v=gT0Lh1eYk78)
-
 
 ### HTML
 
@@ -67,22 +66,21 @@ Una volta che avrai creato il tuo sito potrai potenziarlo e personalizzarlo anco
 - [Aggiungi un menu](potenzia-il-tuo-sito/lezioni/aggiungi-menu)
 - [Aggiungi un video Youtube](potenzia-il-tuo-sito/lezioni/aggiungi-un-video-youtube)
 - [Aggiungi delle nuove pagine al tuo sito](potenzia-il-tuo-sito/lezioni/aggiungi-nuove-pagine)
-- [Bottone per scrollare a inizio pagina](potenzia-il-tuo-sito/lezioni/bottone-torna-inizio-pagina)
-
+- [Bottone per andare a inizio pagina](potenzia-il-tuo-sito/lezioni/bottone-torna-inizio-pagina)
 
 ---
 
 ## Approfondimenti
 
-Per ulteriori approfondimenti su HTML, CSS e Javascript ti consigliamo di puoi visitare i seguenti siti: 
+Per ulteriori approfondimenti su HTML, CSS e Javascript ti consigliamo di puoi visitare i seguenti siti:
 
 - 👩🏻‍💻 Questo sito ti permette invece di comprendere meglio la [struttura HTML](https://htmlreference.io/base/)
 - Questo sito invece contiene spiegazioni su HTML, CSS, Javascript e molto altro: [W3School](https://www.w3schools.com)
 
-#### 👩🏻‍💻 Tutorial gratuiti riguardo al coding: 
+#### 👩🏻‍💻 Tutorial gratuiti riguardo al coding:
+
 - [Codeacademy](https://www.codeacademy.com)
 - [Khan Academy](https://it.khanacademy.org/computing/computer-programming/html-css)
-
 
 ## Contatti
 
