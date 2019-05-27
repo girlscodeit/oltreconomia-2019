@@ -29,7 +29,7 @@ Per fare ciò ci sono diversi dettgli da seguire:
 
 ## Congratulazioni 🎉🎉🎉🎉
 
-Sei arrivata alla fine di questo workshop ma se vuoi continuare ad aggiugnere nuove funzionalità abbiamo preparato un'altra sezione per potenziare al massimo il sito! Scoprila qua: [Potenzia](https://github.com/girlscodeit/oltreconomia-2019/tree/master/potenzia-il-tuo-sito)
+Sei arrivata alla fine di questo workshop ma se vuoi continuare ad aggiugnere nuove funzionalità abbiamo preparato un'altra sezione per potenziare al massimo il sito! Scoprila [qua](https://github.com/girlscodeit/oltreconomia-2019/tree/master/potenzia-il-tuo-sito)
 
 
 | Capitolo precedente                                                  | Torna all'introduzione                                    |
