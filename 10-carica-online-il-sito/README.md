@@ -27,6 +27,10 @@ Per fare ciò ci sono diversi dettgli da seguire:
 
 ![10-image-1.png](../assets/Lessons/10-image-1.png)
 
+## Congratulazioni 🎉🎉🎉🎉
+
+Sei arrivata alla fine di questo workshop ma se vuoi continuare ad aggiugnere nuove funzionalità abbiamo preparato un'altra sezione per potenziare al massimo il sito! Scoprila qua: [Potenzia il tuo sito](potenzia-il-tuo-sito)
+
 
 | Capitolo precedente                                                  | Torna all'introduzione                                    |
 | :------------------------------------------------------------------- | --------------------------------------------------------: |
