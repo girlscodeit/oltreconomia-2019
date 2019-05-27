@@ -2,7 +2,7 @@
 
 | Capitolo precedente                                                  | Torna all'introduzione                                                        |
 | :------------------------------------------------------------------- | ----------------------------------------------------------------------------: |
-| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti) | [Introduzione ▶︎](https://github.com/girlscodeit/coding-is-poplar/) |
+| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti) | [Introduzione ▶︎](https://github.com/girlscodeit/oltreconomia-2019/) |
 
 
 ## Obiettivo: 
@@ -30,4 +30,4 @@ Per fare ciò ci sono diversi dettgli da seguire:
 
 | Capitolo precedente                                                  | Torna all'introduzione                                    |
 | :------------------------------------------------------------------- | --------------------------------------------------------: |
-| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti) | [Introduzione ▶︎](https://github.com/girlscodeit/coding-is-poplar/) |
+| [◀︎ ︎︎09-crea-una-sezione-contatti](../09-crea-una-sezione-contatti) | [Introduzione ▶︎](https://github.com/girlscodeit/oltreconomia-2019/) |
