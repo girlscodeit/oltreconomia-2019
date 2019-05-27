@@ -10,4 +10,4 @@ Ci sono diversi modi per personalizzarlo:
 - [Aggiungi un menu](lezioni/aggiungi-menu)
 - [Aggiungi un video Youtube](lezioni/aggiungi-un-video-youtube)
 - [Aggiungi delle nuove pagine al tuo sito](lezioni/aggiungi-nuove-pagine)
-- [Bottone per andare a inizio pagina](potenzia-il-tuo-sito/lezioni/bottone-torna-inizio-pagina)
+- [Bottone per andare a inizio pagina](lezioni/bottone-torna-inizio-pagina)
